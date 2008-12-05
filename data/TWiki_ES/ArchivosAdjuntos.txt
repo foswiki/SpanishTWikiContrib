@@ -114,7 +114,7 @@ Describa el archivo, de manera que otros sepan que es.
 <input type="checkbox" class="twikiCheckbox" id="createlink" name="createlink"  /><label for="createlink">Crear un enlace al archivo adjunto</label> <span class="foswikiGrayText">Imágenes serán mostradas, para otros archivos adjuntos un enlace será creado.</span>
 <p />
 <input type="checkbox" class="twikiCheckbox" id="hidefile" name="hidefile"  /><label for="hidefile">No mostrar archivos adjuntos en la tabla </label> <span class="foswikiGrayText">Los archivos adjuntos no se mostrarán en la vista normal del tema.</span>
-</div><!-- /twikiFormStep--><div class="twikiFormStep twikiLast"><input type="submit" class="twikiButton" name="changeproperties" value='Cambiar únicamente comentarios y propiedades' /></div><!-- /twikiFormStep-->
+</div><!-- /twikiFormStep--><div class="twikiFormStep twikiLast"><input type="submit" class="foswikiButton" name="changeproperties" value='Cambiar únicamente comentarios y propiedades' /></div><!-- /twikiFormStep-->
 </div><!-- /twikiFormSteps-->
 <a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction" style="margin-top:-1px;"><span class="patternActionButtons"> <input type="submit" class="twikiSubmit" value='Subir archivo' /> or <a href="#" title='Back to topic' accesskey='c' rel='nofollow'><span class='twikiAccessKey'>C</span>ancelar</a></span></div></div><!--/patternTopicActions-->
 
